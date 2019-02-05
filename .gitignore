@@ -1,3 +1,5 @@
+*.swp
+*.zip
 *.csv
 *.DS_Store
 *.dmg
